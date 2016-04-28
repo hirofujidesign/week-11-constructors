@@ -29,4 +29,5 @@ busOne.studentEntersBus("Katrina","F","A",2,4,true,"I'm cooler...");
 busOne.studentEntersBus("Peter","M","C",3,9,true,"I'M SO COOL");
 busOne.studentEntersBus("Lois","F","A",2,4,true,"I'm cooler...");
 
+
 console.log(busOne); //bus with people entered

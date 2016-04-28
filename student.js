@@ -8,7 +8,7 @@ var Student = function(name, gender, grade, GPA, detentions, sleepingInClass, ca
 	this.catchPhrase = catchPhrase;
 	this.canStudentHaveFun = function() {
 		if (detentions<10 && GPA >= 2){
-			console.log("Student can have Fun")
+			console.log("Student can have FUN")
 		}
 	}
 
@@ -28,3 +28,6 @@ var info = function () {
 
 
 module.exports = Student;
+
+
+//check
